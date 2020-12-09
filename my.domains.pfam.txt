@@ -1,0 +1,139 @@
+Nematostella_vectensis_XP_001621078.2	5e22d187681246b9074f6d30001affaa	521	Pfam	PF00002	7 transmembrane receptor (Secretin family)	339	502	8.0E-42	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Nematostella_vectensis_XP_001621078.2	5e22d187681246b9074f6d30001affaa	521	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	32	251	3.4E-26	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Nematostella_vectensis_XP_001621078.2	5e22d187681246b9074f6d30001affaa	521	Pfam	PF01825	GPCR proteolysis site, GPS, motif	280	324	1.4E-14	T	30-11-2020	IPR000203	GPS motif		
+Nematostella_vectensis_XP_001622990.2	e5857b3f324e6e2389ddc5b9841451fa	1623	Pfam	PF00002	7 transmembrane receptor (Secretin family)	1282	1514	1.5E-61	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Nematostella_vectensis_XP_001622990.2	e5857b3f324e6e2389ddc5b9841451fa	1623	Pfam	PF01825	GPCR proteolysis site, GPS, motif	1224	1267	1.0E-10	T	30-11-2020	IPR000203	GPS motif		
+Nematostella_vectensis_XP_001622990.2	e5857b3f324e6e2389ddc5b9841451fa	1623	Pfam	PF01822	WSC domain	875	950	1.9E-6	T	30-11-2020	IPR002889	Carbohydrate-binding WSC		
+Nematostella_vectensis_XP_001622990.2	e5857b3f324e6e2389ddc5b9841451fa	1623	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	997	1192	9.7E-24	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Nematostella_vectensis_XP_001641262.2	ccdc61db2cf966a866fdcac7fd44ea8e	784	Pfam	PF01825	GPCR proteolysis site, GPS, motif	432	475	9.6E-12	T	30-11-2020	IPR000203	GPS motif		
+Nematostella_vectensis_XP_001641262.2	ccdc61db2cf966a866fdcac7fd44ea8e	784	Pfam	PF00002	7 transmembrane receptor (Secretin family)	489	724	1.0E-59	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF00028	Cadherin domain	668	755	1.1E-12	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF00028	Cadherin domain	354	445	5.4E-21	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF00028	Cadherin domain	460	549	1.4E-19	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF00028	Cadherin domain	567	653	5.1E-18	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF00028	Cadherin domain	978	1063	3.7E-18	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF00028	Cadherin domain	248	340	8.5E-19	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF00028	Cadherin domain	872	962	6.4E-22	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF00028	Cadherin domain	769	857	1.2E-19	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF00008	EGF-like domain	1350	1378	2.0E-4	T	30-11-2020	IPR000742	EGF-like domain		
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF00008	EGF-like domain	1844	1874	1.5E-7	T	30-11-2020	IPR000742	EGF-like domain		
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF00002	7 transmembrane receptor (Secretin family)	2416	2659	1.7E-56	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF02210	Laminin G domain	1467	1610	1.9E-24	T	30-11-2020	IPR001791	Laminin G domain		
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF02210	Laminin G domain	1700	1821	5.4E-15	T	30-11-2020	IPR001791	Laminin G domain		
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	2110	2329	3.7E-25	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Nematostella_vectensis_XP_032221363.1	e0e3862aca05fc3586c67c3929046967	3083	Pfam	PF01825	GPCR proteolysis site, GPS, motif	2358	2402	1.1E-13	T	30-11-2020	IPR000203	GPS motif		
+Nematostella_vectensis_XP_032224204.1	4b3b6f0da29b348e670cdca2a792d7c8	1602	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	976	1171	2.7E-23	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Nematostella_vectensis_XP_032224204.1	4b3b6f0da29b348e670cdca2a792d7c8	1602	Pfam	PF01825	GPCR proteolysis site, GPS, motif	1203	1246	1.0E-10	T	30-11-2020	IPR000203	GPS motif		
+Nematostella_vectensis_XP_032224204.1	4b3b6f0da29b348e670cdca2a792d7c8	1602	Pfam	PF01822	WSC domain	854	929	1.9E-6	T	30-11-2020	IPR002889	Carbohydrate-binding WSC		
+Nematostella_vectensis_XP_032224204.1	4b3b6f0da29b348e670cdca2a792d7c8	1602	Pfam	PF00002	7 transmembrane receptor (Secretin family)	1261	1493	1.5E-61	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Nematostella_vectensis_XP_032227744.1	8a0b6485b1479aa70dfa2e4c43e0f727	823	Pfam	PF01825	GPCR proteolysis site, GPS, motif	399	440	4.2E-9	T	30-11-2020	IPR000203	GPS motif		
+Nematostella_vectensis_XP_032227744.1	8a0b6485b1479aa70dfa2e4c43e0f727	823	Pfam	PF00002	7 transmembrane receptor (Secretin family)	455	687	1.5E-63	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Nematostella_vectensis_XP_032228413.1	2e28d25278b7edb36272513dab3c1f0c	2022	Pfam	PF12947	EGF domain	1018	1049	1.4E-8	T	30-11-2020	IPR024731	EGF domain		
+Nematostella_vectensis_XP_032228413.1	2e28d25278b7edb36272513dab3c1f0c	2022	Pfam	PF12947	EGF domain	1125	1155	7.3E-8	T	30-11-2020	IPR024731	EGF domain		
+Nematostella_vectensis_XP_032228413.1	2e28d25278b7edb36272513dab3c1f0c	2022	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	1198	1389	3.8E-22	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Nematostella_vectensis_XP_032228413.1	2e28d25278b7edb36272513dab3c1f0c	2022	Pfam	PF00084	Sushi repeat (SCR repeat)	944	997	3.6E-8	T	30-11-2020	IPR000436	Sushi/SCR/CCP domain		
+Nematostella_vectensis_XP_032228413.1	2e28d25278b7edb36272513dab3c1f0c	2022	Pfam	PF00084	Sushi repeat (SCR repeat)	1053	1108	4.3E-10	T	30-11-2020	IPR000436	Sushi/SCR/CCP domain		
+Nematostella_vectensis_XP_032228413.1	2e28d25278b7edb36272513dab3c1f0c	2022	Pfam	PF01825	GPCR proteolysis site, GPS, motif	1425	1467	9.7E-14	T	30-11-2020	IPR000203	GPS motif		
+Nematostella_vectensis_XP_032228413.1	2e28d25278b7edb36272513dab3c1f0c	2022	Pfam	PF07679	Immunoglobulin I-set domain	852	937	4.1E-17	T	30-11-2020	IPR013098	Immunoglobulin I-set		
+Nematostella_vectensis_XP_032228413.1	2e28d25278b7edb36272513dab3c1f0c	2022	Pfam	PF07679	Immunoglobulin I-set domain	753	848	1.0E-8	T	30-11-2020	IPR013098	Immunoglobulin I-set		
+Nematostella_vectensis_XP_032228413.1	2e28d25278b7edb36272513dab3c1f0c	2022	Pfam	PF13855	Leucine rich repeat	63	120	3.8E-9	T	30-11-2020	IPR001611	Leucine-rich repeat	GO:0005515	
+Nematostella_vectensis_XP_032228413.1	2e28d25278b7edb36272513dab3c1f0c	2022	Pfam	PF08685	GON domain	166	363	1.0E-46	T	30-11-2020	IPR012314	Peptidase M12B, GON-ADAMTSs	GO:0004222|GO:0008270	Reactome: R-HSA-5083635|Reactome: R-HSA-5173214
+Nematostella_vectensis_XP_032228413.1	2e28d25278b7edb36272513dab3c1f0c	2022	Pfam	PF00754	F5/8 type C domain	391	519	5.6E-23	T	30-11-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_vectensis_XP_032228413.1	2e28d25278b7edb36272513dab3c1f0c	2022	Pfam	PF00002	7 transmembrane receptor (Secretin family)	1479	1710	4.7E-32	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Nematostella_vectensis_XP_032231912.1	b6750e382c892909cafbe43e2e9be4a6	1447	Pfam	PF01822	WSC domain	699	774	1.7E-6	T	30-11-2020	IPR002889	Carbohydrate-binding WSC		
+Nematostella_vectensis_XP_032231912.1	b6750e382c892909cafbe43e2e9be4a6	1447	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	821	1016	8.3E-24	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Nematostella_vectensis_XP_032231912.1	b6750e382c892909cafbe43e2e9be4a6	1447	Pfam	PF01825	GPCR proteolysis site, GPS, motif	1048	1091	9.0E-11	T	30-11-2020	IPR000203	GPS motif		
+Nematostella_vectensis_XP_032231912.1	b6750e382c892909cafbe43e2e9be4a6	1447	Pfam	PF00002	7 transmembrane receptor (Secretin family)	1106	1338	1.3E-61	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Nematostella_vectensis_XP_032242051.1	69fa78348df5977395b1e51d3072043c	1183	Pfam	PF12947	EGF domain	318	353	1.1E-8	T	30-11-2020	IPR024731	EGF domain		
+Nematostella_vectensis_XP_032242051.1	69fa78348df5977395b1e51d3072043c	1183	Pfam	PF01825	GPCR proteolysis site, GPS, motif	661	706	4.9E-12	T	30-11-2020	IPR000203	GPS motif		
+Nematostella_vectensis_XP_032242051.1	69fa78348df5977395b1e51d3072043c	1183	Pfam	PF00041	Fibronectin type III domain	231	295	6.6E-7	T	30-11-2020	IPR003961	Fibronectin type III	GO:0005515	
+Nematostella_vectensis_XP_032242051.1	69fa78348df5977395b1e51d3072043c	1183	Pfam	PF00041	Fibronectin type III domain	36	100	7.2E-6	T	30-11-2020	IPR003961	Fibronectin type III	GO:0005515	
+Nematostella_vectensis_XP_032242051.1	69fa78348df5977395b1e51d3072043c	1183	Pfam	PF00002	7 transmembrane receptor (Secretin family)	724	960	1.0E-57	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Nematostella_vectensis_XP_032242051.1	69fa78348df5977395b1e51d3072043c	1183	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	440	635	8.6E-20	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Nematostella_vectensis_XP_032242104.1	9337a7efb32a0278aef9edfac5fd186d	1469	Pfam	PF13385	Concanavalin A-like lectin/glucanases superfamily	102	200	1.1E-7	T	30-11-2020
+Nematostella_vectensis_XP_032242104.1	9337a7efb32a0278aef9edfac5fd186d	1469	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	782	970	6.6E-22	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Nematostella_vectensis_XP_032242104.1	9337a7efb32a0278aef9edfac5fd186d	1469	Pfam	PF00002	7 transmembrane receptor (Secretin family)	1092	1310	7.9E-52	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Nematostella_vectensis_XP_032242104.1	9337a7efb32a0278aef9edfac5fd186d	1469	Pfam	PF01825	GPCR proteolysis site, GPS, motif	998	1040	1.7E-13	T	30-11-2020	IPR000203	GPS motif		
+Homo_sapiens_AGRL2	6fb57a1184b76ac03fa4611291580edb	1459	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	539	760	2.6E-56	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Homo_sapiens_AGRL2	6fb57a1184b76ac03fa4611291580edb	1459	Pfam	PF01825	GPCR proteolysis site, GPS, motif	787	830	1.1E-14	T	30-11-2020	IPR000203	GPS motif		
+Homo_sapiens_AGRL2	6fb57a1184b76ac03fa4611291580edb	1459	Pfam	PF00002	7 transmembrane receptor (Secretin family)	846	1080	6.6E-69	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Homo_sapiens_AGRL2	6fb57a1184b76ac03fa4611291580edb	1459	Pfam	PF02354	Latrophilin Cytoplasmic C-terminal region	1100	1459	0.0	T	30-11-2020	IPR003334	GPCR, family 2, latrophilin, C-terminal	GO:0004930|GO:0007186|GO:0016020	
+Homo_sapiens_AGRL2	6fb57a1184b76ac03fa4611291580edb	1459	Pfam	PF02191	Olfactomedin-like domain	145	392	4.4E-84	T	30-11-2020	IPR003112	Olfactomedin-like domain		
+Homo_sapiens_AGRL2	6fb57a1184b76ac03fa4611291580edb	1459	Pfam	PF02793	Hormone receptor domain	467	523	2.1E-8	T	30-11-2020	IPR001879	GPCR, family 2, extracellular hormone receptor domain	GO:0004930|GO:0016020	
+Homo_sapiens_AGRL2	6fb57a1184b76ac03fa4611291580edb	1459	Pfam	PF02140	Galactose binding lectin domain	49	129	1.7E-23	T	30-11-2020	IPR000922	D-galactoside/L-rhamnose binding SUEL lectin domain	GO:0030246	
+Homo_sapiens_AGRL3	cb325a8e0e3224be1539e88fd06bd616	1447	Pfam	PF02140	Galactose binding lectin domain	43	123	1.1E-23	T	30-11-2020	IPR000922	D-galactoside/L-rhamnose binding SUEL lectin domain	GO:0030246	
+Homo_sapiens_AGRL3	cb325a8e0e3224be1539e88fd06bd616	1447	Pfam	PF00002	7 transmembrane receptor (Secretin family)	863	1097	1.3E-71	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Homo_sapiens_AGRL3	cb325a8e0e3224be1539e88fd06bd616	1447	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	568	775	1.8E-53	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Homo_sapiens_AGRL3	cb325a8e0e3224be1539e88fd06bd616	1447	Pfam	PF02191	Olfactomedin-like domain	140	391	8.6E-85	T	30-11-2020	IPR003112	Olfactomedin-like domain		
+Homo_sapiens_AGRL3	cb325a8e0e3224be1539e88fd06bd616	1447	Pfam	PF02354	Latrophilin Cytoplasmic C-terminal region	1183	1447	2.0E-82	T	30-11-2020	IPR003334	GPCR, family 2, latrophilin, C-terminal	GO:0004930|GO:0007186|GO:0016020	
+Homo_sapiens_AGRL3	cb325a8e0e3224be1539e88fd06bd616	1447	Pfam	PF02354	Latrophilin Cytoplasmic C-terminal region	1118	1181	2.9E-33	T	30-11-2020	IPR003334	GPCR, family 2, latrophilin, C-terminal	GO:0004930|GO:0007186|GO:0016020	
+Homo_sapiens_AGRL3	cb325a8e0e3224be1539e88fd06bd616	1447	Pfam	PF01825	GPCR proteolysis site, GPS, motif	803	847	1.5E-15	T	30-11-2020	IPR000203	GPS motif		
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF00028	Cadherin domain	295	385	1.2E-19	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF00028	Cadherin domain	404	495	1.2E-22	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF00028	Cadherin domain	186	280	6.5E-18	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF00028	Cadherin domain	820	912	8.6E-20	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF00028	Cadherin domain	615	703	2.2E-16	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF00028	Cadherin domain	928	1013	2.9E-17	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF00028	Cadherin domain	511	601	1.4E-19	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF00028	Cadherin domain	717	805	1.1E-20	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	2052	2288	5.2E-63	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF00008	EGF-like domain	1578	1607	8.6E-8	T	30-11-2020	IPR000742	EGF-like domain		
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF00002	7 transmembrane receptor (Secretin family)	2376	2605	7.5E-44	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF12661	Human growth factor-like EGF	1337	1358	7.7E-4	T	30-11-2020	IPR013032	EGF-like, conserved site		
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF02210	Laminin G domain	1395	1553	5.1E-26	T	30-11-2020	IPR001791	Laminin G domain		
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF02210	Laminin G domain	1644	1769	1.1E-16	T	30-11-2020	IPR001791	Laminin G domain		
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF01825	GPCR proteolysis site, GPS, motif	2317	2362	8.4E-16	T	30-11-2020	IPR000203	GPS motif		
+Homo_sapiens_CELSR2	479502a092db71e1baa8ed55dd71fae9	2923	Pfam	PF00053	Laminin EGF domain	1924	1964	5.0E-9	T	30-11-2020	IPR002049	Laminin EGF domain		
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF00008	EGF-like domain	1407	1435	3.8E-5	T	30-11-2020	IPR000742	EGF-like domain		
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF00008	EGF-like domain	1653	1683	4.2E-6	T	30-11-2020	IPR000742	EGF-like domain		
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF02793	Hormone receptor domain	2053	2105	1.7E-8	T	30-11-2020	IPR001879	GPCR, family 2, extracellular hormone receptor domain	GO:0004930|GO:0016020	
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF00028	Cadherin domain	794	882	1.4E-22	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF00028	Cadherin domain	692	780	4.9E-15	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF00028	Cadherin domain	359	450	1.2E-17	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF00028	Cadherin domain	571	678	9.1E-17	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF00028	Cadherin domain	464	555	5.2E-20	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF00028	Cadherin domain	897	990	6.6E-20	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF00028	Cadherin domain	1008	1090	4.9E-17	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF00028	Cadherin domain	250	343	2.1E-13	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	2131	2381	2.2E-62	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF02210	Laminin G domain	1470	1629	6.8E-29	T	30-11-2020	IPR001791	Laminin G domain		
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF02210	Laminin G domain	1719	1848	3.0E-20	T	30-11-2020	IPR001791	Laminin G domain		
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF00053	Laminin EGF domain	2003	2042	8.0E-9	T	30-11-2020	IPR002049	Laminin EGF domain		
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF00002	7 transmembrane receptor (Secretin family)	2467	2697	1.7E-54	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Homo_sapiens_CELSR1	1032dafe5f8e42781ac1ebbf7ca3f93c	3014	Pfam	PF01825	GPCR proteolysis site, GPS, motif	2409	2454	5.9E-14	T	30-11-2020	IPR000203	GPS motif		
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF00028	Cadherin domain	761	849	6.7E-15	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF00028	Cadherin domain	863	951	7.0E-19	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF00028	Cadherin domain	1073	1159	1.1E-16	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF00028	Cadherin domain	440	535	7.7E-19	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF00028	Cadherin domain	550	634	1.6E-22	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF00028	Cadherin domain	966	1058	6.1E-20	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF00028	Cadherin domain	656	747	9.9E-22	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF00028	Cadherin domain	330	423	2.5E-18	T	30-11-2020	IPR002126	Cadherin-like	GO:0005509|GO:0007156|GO:0016020	
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF00002	7 transmembrane receptor (Secretin family)	2538	2767	4.5E-55	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF00053	Laminin EGF domain	2077	2117	1.0E-6	T	30-11-2020	IPR002049	Laminin EGF domain		
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF02210	Laminin G domain	1793	1923	3.3E-16	T	30-11-2020	IPR001791	Laminin G domain		
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF02210	Laminin G domain	1543	1702	1.6E-28	T	30-11-2020	IPR001791	Laminin G domain		
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	2204	2449	1.6E-53	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF00008	EGF-like domain	1726	1755	6.2E-6	T	30-11-2020	IPR000742	EGF-like domain		
+Homo_sapiens_CELSR3	adf6e3cc43d25e66cf9dfec5684ff38b	3312	Pfam	PF00008	EGF-like domain	1439	1468	7.0E-5	T	30-11-2020	IPR000742	EGF-like domain		
+Strongylocentrotus_purpuratus_SPU_003929	2d14d8968a2c12e0b3efc2ecd51fde54	1199	Pfam	PF01825	GPCR proteolysis site, GPS, motif	545	592	1.0E-14	T	30-11-2020	IPR000203	GPS motif		
+Strongylocentrotus_purpuratus_SPU_003929	2d14d8968a2c12e0b3efc2ecd51fde54	1199	Pfam	PF00002	7 transmembrane receptor (Secretin family)	608	844	6.3E-61	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Strongylocentrotus_purpuratus_SPU_003929	2d14d8968a2c12e0b3efc2ecd51fde54	1199	Pfam	PF02140	Galactose binding lectin domain	42	121	6.1E-17	T	30-11-2020	IPR000922	D-galactoside/L-rhamnose binding SUEL lectin domain	GO:0030246	
+Strongylocentrotus_purpuratus_SPU_003929	2d14d8968a2c12e0b3efc2ecd51fde54	1199	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	286	517	2.7E-37	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Strongylocentrotus_purpuratus_SPU_009215	889345a5ef1262916f807fab87938c64	1632	Pfam	PF00002	7 transmembrane receptor (Secretin family)	1053	1288	9.8E-41	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Strongylocentrotus_purpuratus_SPU_009215	889345a5ef1262916f807fab87938c64	1632	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	746	963	1.1E-34	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Strongylocentrotus_purpuratus_SPU_009215	889345a5ef1262916f807fab87938c64	1632	Pfam	PF00053	Laminin EGF domain	617	655	6.3E-7	T	30-11-2020	IPR002049	Laminin EGF domain		
+Strongylocentrotus_purpuratus_SPU_009215	889345a5ef1262916f807fab87938c64	1632	Pfam	PF02210	Laminin G domain	121	264	1.7E-28	T	30-11-2020	IPR001791	Laminin G domain		
+Strongylocentrotus_purpuratus_SPU_009215	889345a5ef1262916f807fab87938c64	1632	Pfam	PF02210	Laminin G domain	353	468	1.2E-14	T	30-11-2020	IPR001791	Laminin G domain		
+Strongylocentrotus_purpuratus_SPU_009215	889345a5ef1262916f807fab87938c64	1632	Pfam	PF01825	GPCR proteolysis site, GPS, motif	994	1038	1.3E-14	T	30-11-2020	IPR000203	GPS motif		
+Strongylocentrotus_purpuratus_SPU_009215	889345a5ef1262916f807fab87938c64	1632	Pfam	PF02793	Hormone receptor domain	667	721	8.5E-9	T	30-11-2020	IPR001879	GPCR, family 2, extracellular hormone receptor domain	GO:0004930|GO:0016020	
+Pocillopora_damicornis_pdam_00013144	e48cd8bec4949347130b869882ed0e7b	1358	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	744	948	2.1E-20	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Pocillopora_damicornis_pdam_00013144	e48cd8bec4949347130b869882ed0e7b	1358	Pfam	PF01825	GPCR proteolysis site, GPS, motif	976	1017	1.3E-12	T	30-11-2020	IPR000203	GPS motif		
+Pocillopora_damicornis_pdam_00013144	e48cd8bec4949347130b869882ed0e7b	1358	Pfam	PF07645	Calcium-binding EGF domain	620	659	5.6E-10	T	30-11-2020	IPR001881	EGF-like calcium-binding domain	GO:0005509	
+Pocillopora_damicornis_pdam_00013144	e48cd8bec4949347130b869882ed0e7b	1358	Pfam	PF00002	7 transmembrane receptor (Secretin family)	1035	1270	7.5E-58	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	
+Pocillopora_damicornis_pdam_00013144	e48cd8bec4949347130b869882ed0e7b	1358	Pfam	PF00041	Fibronectin type III domain	263	321	4.5E-6	T	30-11-2020	IPR003961	Fibronectin type III	GO:0005515	
+Pocillopora_damicornis_pdam_00013144	e48cd8bec4949347130b869882ed0e7b	1358	Pfam	PF00041	Fibronectin type III domain	530	608	2.3E-6	T	30-11-2020	IPR003961	Fibronectin type III	GO:0005515	
+Pocillopora_damicornis_pdam_00013144	e48cd8bec4949347130b869882ed0e7b	1358	Pfam	PF00041	Fibronectin type III domain	347	420	3.3E-11	T	30-11-2020	IPR003961	Fibronectin type III	GO:0005515	
+Pocillopora_damicornis_pdam_00018939	460e899136b11325381c37fc492d646d	1203	Pfam	PF01825	GPCR proteolysis site, GPS, motif	778	818	2.5E-12	T	30-11-2020	IPR000203	GPS motif		
+Pocillopora_damicornis_pdam_00018939	460e899136b11325381c37fc492d646d	1203	Pfam	PF16489	GPCR-Autoproteolysis INducing (GAIN) domain	553	749	3.9E-9	T	30-11-2020	IPR032471	GAIN domain, N-terminal		
+Pocillopora_damicornis_pdam_00018939	460e899136b11325381c37fc492d646d	1203	Pfam	PF00002	7 transmembrane receptor (Secretin family)	833	1069	1.3E-55	T	30-11-2020	IPR000832	GPCR, family 2, secretin-like	GO:0004930|GO:0007186|GO:0016021	

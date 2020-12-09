@@ -1,0 +1,151 @@
+IQ-TREE 2.1.1 COVID-edition built Aug 22 2020
+
+Input file name: myhomologs.aligned.r50.fa
+User tree file name: myhomologs.r50.ufboot.treefile
+Type of analysis: tree reconstruction
+Random seed number: 783851
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 19 sequences with 1460 amino-acid sites
+Number of constant sites: 15 (= 1.0274% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 15 (= 1.0274% of all sites)
+Number of parsimony informative sites: 1351
+Number of distinct site patterns: 1454
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+F+R5
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0661
+  pi(R) = 0.0494
+  pi(N) = 0.0486
+  pi(D) = 0.0461
+  pi(C) = 0.0292
+  pi(Q) = 0.0329
+  pi(E) = 0.0484
+  pi(G) = 0.0773
+  pi(H) = 0.0239
+  pi(I) = 0.0560
+  pi(L) = 0.0921
+  pi(K) = 0.0463
+  pi(M) = 0.0208
+  pi(F) = 0.0424
+  pi(P) = 0.0465
+  pi(S) = 0.0862
+  pi(T) = 0.0688
+  pi(W) = 0.0144
+  pi(Y) = 0.0311
+  pi(V) = 0.0734
+
+Model of rate heterogeneity: FreeRate with 5 categories
+Site proportion and rates:  (0.0941,0.1301) (0.2194,0.4180) (0.2636,0.7467) (0.3850,1.2924) (0.0379,5.3215)
+
+ Category  Relative_rate  Proportion
+  1         0.1301         0.0941
+  2         0.4180         0.2194
+  3         0.7467         0.2636
+  4         1.2924         0.3850
+  5         5.3215         0.0379
+
+USER TREE
+---------
+
+Log-likelihood of the tree: -45479.9545 (s.e. 354.3009)
+Unconstrained log-likelihood (without tree): -10627.6126
+Number of free parameters (#branches + #model parameters): 62
+Akaike information criterion (AIC) score: 91083.9090
+Corrected Akaike information criterion (AICc) score: 91089.5010
+Bayesian information criterion (BIC) score: 91411.6529
+
+Total tree length (sum of branch lengths): 25.1404
+Sum of internal branch lengths: 8.6411 (34.3715% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Nematostella_vectensis_XP_032228413.1' is drawn at root
+
++-----------------------------------------------------------Nematostella_vectensis_XP_032228413.1
+|
+|                            +-------------------Nematostella_vectensis_XP_032242051.1
+|            +---------------| (100)
+|            |               |         +---------------Pocillopora_damicornis_pdam_00013144
+|            |               +---------| (100)
+|            |                         +---------------Nematostella_vectensis_XP_032242104.1
+|    +-------| (91)
+|    |       |    +------------------------Strongylocentrotus_purpuratus_SPU_003929
+|    |       +----| (90)
+|    |            |                  +---Homo_sapiens_AGRL2
+|    |            +------------------| (100)
+|    |                               +----Homo_sapiens_AGRL3
++----| (61)
+|    |   +----------------------------------Nematostella_vectensis_XP_001641262.2
+|    +---| (88)
+|        |          +----------------------Nematostella_vectensis_XP_032227744.1
+|        |  +-------| (99)
+|        |  |       +---------------------------Pocillopora_damicornis_pdam_00018939
+|        +--| (66)
+|           |                       +**Nematostella_vectensis_XP_032224204.1
+|           +-----------------------| (100)
+|                                   |  +--Nematostella_vectensis_XP_001622990.2
+|                                   +--| (93)
+|                                      +--Nematostella_vectensis_XP_032231912.1
+|
+|                         +--Nematostella_vectensis_XP_001621078.2
+|        +----------------| (100)
+|        |                +--Nematostella_vectensis_XP_032221363.1
++--------| (100)
+         |   +---------------Strongylocentrotus_purpuratus_SPU_009215
+         +---| (99)
+             |      +-----------Homo_sapiens_CELSR3
+             +------| (100)
+                    |  +-----Homo_sapiens_CELSR2
+                    +--| (97)
+                       +------Homo_sapiens_CELSR1
+
+Tree in newick format:
+
+(Nematostella_vectensis_XP_032228413.1:3.5318990110,(((Nematostella_vectensis_XP_032242051.1:1.2270780023,(Pocillopora_damicornis_pdam_00013144:0.9769272747,Nematostella_vectensis_XP_032242104.1:0.9658061702)100:0.6100453469)100:0.9682079929,(Strongylocentrotus_purpuratus_SPU_003929:1.5030962800,(Homo_sapiens_AGRL2:0.2888521340,Homo_sapiens_AGRL3:0.3469183815)100:1.1467728371)90:0.3258470270)91:0.5257244138,(Nematostella_vectensis_XP_001641262.2:2.0741228355,((Nematostella_vectensis_XP_032227744.1:1.3655857552,Pocillopora_damicornis_pdam_00018939:1.6715010811)99:0.4737935097,(Nematostella_vectensis_XP_032224204.1:0.0000024251,(Nematostella_vectensis_XP_001622990.2:0.0016668828,Nematostella_vectensis_XP_032231912.1:0.0016589934)93:0.0033146588)100:1.4156889647)66:0.2293954260)88:0.2715230350)61:0.2972877968,((Nematostella_vectensis_XP_001621078.2:0.0355757158,Nematostella_vectensis_XP_032221363.1:0.0224597179)100:1.0202435561,(Strongylocentrotus_purpuratus_SPU_009215:0.9603298946,(Homo_sapiens_CELSR3:0.7288505723,(Homo_sapiens_CELSR2:0.3795700427,Homo_sapiens_CELSR1:0.4173767001)97:0.1359325225)100:0.4416665537)99:0.2367223392)100:0.5389808238);
+
+
+USER TREES
+----------
+
+See mygene_altTrees.trees for trees with branch lengths.
+
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -45479.95365       0   0.986 +  0.984 +      1 +     0.985 +    0.989 + 
+  2 -45500.44928  20.496  0.0137 - 0.0162 - 0.0162 -     0.015 -   0.0105 - 
+
+deltaL  : logL difference from the maximal logl in the set.
+bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
+p-KH    : p-value of one sided Kishino-Hasegawa test (1989).
+p-SH    : p-value of Shimodaira-Hasegawa test (2000).
+c-ELW   : Expected Likelihood Weight (Strimmer & Rambaut 2002).
+p-AU    : p-value of approximately unbiased (AU) test (Shimodaira, 2002).
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+All tests performed 10000 resamplings using the RELL method.
+
+TIME STAMP
+----------
+
+Date and time: Mon Nov 30 03:57:22 2020
+Total CPU time used: 20.6 seconds (0h:0m:20s)
+Total wall-clock time used: 11.7 seconds (0h:0m:11s)
+
